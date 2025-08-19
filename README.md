@@ -1,5 +1,6 @@
 # Darkness - TOW
-Darknes - TOW, this is RPG game which inspired by Undetale and Deltarune
+## ТЬМА - ИМ
+
 EN | RUS
 
-This is story about.. something
+Эта история о... чём-то...
